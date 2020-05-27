@@ -1,0 +1,18 @@
+.rel_body {
+  background: #2580b8;
+}
+
+.nav_link,
+li,
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+
+.nav_link li {
+  padding: 0 20px;
+}
+
+.nav_link {
+  float: right;
+}
