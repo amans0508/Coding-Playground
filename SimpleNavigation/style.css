@@ -2,6 +2,10 @@
   background: #2580b8;
 }
 
+a {
+  color: black;
+}
+
 .nav_link,
 li,
 a {
@@ -15,4 +19,13 @@ a {
 
 .nav_link {
   float: right;
+}
+
+a:hover {
+  background-color: blueviolet;
+  cursor: pointer;
+}
+
+.nav_button {
+  border-radius: 50%;
 }
